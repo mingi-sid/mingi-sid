@@ -1,7 +1,7 @@
 - 🔭 I’m interested in: **NLP, ML, Game AI**
   - and everything you can find from my repositories!
 - 📫 How to reach me: [mingi.shin@kaist.ac.kr](mailto:mingi.shin@kaist.ac.kr), [@yuagnun](https://twitter.com/yuagnun)
-- 📢 Pronouns: **He/him**, or other neutral pronouns are OK
+- 📢 Pronouns: **He/him**
 
 ### Currently working on
 - Topic modeling and text clustering
