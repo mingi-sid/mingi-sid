@@ -1,11 +1,7 @@
-- 🔭 I’m interested in: **NLP, ML, Deep learning**
+- 🔭 I’m interested in: **NLP, LLM, AI Ethics**
   - and everything you can find from my repositories!
-- 📫 How to reach me: [mingi.shin@kaist.ac.kr](mailto:mingi.shin@kaist.ac.kr), [@yuagnun](https://twitter.com/yuagnun)
+- 📫 How to reach me: [mingi0116s@gmail.com](mailto:mingi0116s@gmail.com), [mingi.shin@alumni.kaist.ac.kr](mailto:mingi.shin@alumni.kaist.ac.kr), [@yuagnun](https://twitter.com/yuagnun)
 - 📢 Pronouns: **He/him**
-
-### Currently working on
-- Topic modeling and text clustering
-- Hate speech detection for Korean chatting data
 
 <!--
 - 🔭 I’m currently working on ...
