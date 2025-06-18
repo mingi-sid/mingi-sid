@@ -19,13 +19,12 @@
 - 🧑‍🏫️ Teaching Assistant at 2023 Samsung AI Expert Course (2023년 삼성 AI Expert 과정 조교)
 - 🏆 Paper Award at 2022 Korean Artificial Intelligence Association Summer Conference (2022 한국인공지능학회 하계학술대회 우수논문상)
   - "Contrastive Neural Topic Model Using Term Weighting"
-- 🧑‍🏫️ Teaching Assistant at 2023 Samsung AI Expert Course (2023년 삼성 AI 전문가 과정 조교)
 - 🔍 Student Research Assistant at IBS (2021-2023)
 - 💼 Intern at Simsimi Inc. (2021)
 
 ## Misc.
 - Writing staff of [AI Ethic Letter (AI 윤리 레터)](https://ai-ethics.kr/) (2024-)
-- Intersectional feminism activist
+- Feminism activist
 - Hobby writer / manhwa artist
 
 <!--
