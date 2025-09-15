@@ -14,10 +14,12 @@
 - 🔧 Developer Tools: Git, Jira
 
 ## Experiences & Awards
-- 🏆 Paper Award at 2023 Korean Artificial Intelligence Association Fall Conference (2023 한국인공지능학회 추계학술대회 우수논문상)
+- 👨‍🏫 Invited speaker of 2025 <SisaIN> Artificial Intelligence Conference (2025 <시사IN> AI 콘퍼런스)
+  - "The Social Impact of AI and its Human Controlability"
+- 🏆 Paper award at 2023 Korean Artificial Intelligence Association Fall Conference (2023 한국인공지능학회 추계학술대회 우수논문상)
   - "Detecting Offensive Language in an Open Chatbot Platform"
-- 🧑‍🏫️ Teaching Assistant at 2023 Samsung AI Expert Course (2023년 삼성 AI Expert 과정 조교)
-- 🏆 Paper Award at 2022 Korean Artificial Intelligence Association Summer Conference (2022 한국인공지능학회 하계학술대회 우수논문상)
+- 🧑‍🏫️ Teaching assistant at 2023 Samsung AI Expert Course (2023년 삼성 AI Expert 과정 조교)
+- 🏆 Paper award at 2022 Korean Artificial Intelligence Association Summer Conference (2022 한국인공지능학회 하계학술대회 우수논문상)
   - "Contrastive Neural Topic Model Using Term Weighting"
 - 🔍 Student Research Assistant at IBS (2021-2023)
 - 💼 Intern at Simsimi Inc. (2021)
